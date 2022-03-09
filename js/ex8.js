@@ -1,3 +1,5 @@
+// Ex8
+
 console.log(document.body.childNodes[0]); //#text
 console.log("====================");
 

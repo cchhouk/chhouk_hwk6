@@ -1,4 +1,5 @@
 // Ex 6
+
 const words = [{
   term: "Procrastination",
   definition: "Avoidance of doing a task that needs to be accomplished"

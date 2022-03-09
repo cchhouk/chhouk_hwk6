@@ -1,4 +1,5 @@
 // Ex 5
+
 const numbTable = () => {
   let filler = document.getElementById('output')
   let table = document.createElement('table')
