@@ -1,0 +1,12 @@
+* {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.divfour {
+  background-color: lightblue;
+}
+
+table, tr, td {
+  text-align: center;
+  border: 1px solid #000;
+}
